@@ -1,0 +1,37 @@
+[submodule "Core Curriculum/01_Libft"]
+	path = Core Curriculum/01_Libft
+	url = https://github.com/t-ecker/42-Libft.git
+[submodule "Core Curriculum/02_Get_next_line"]
+	path = Core Curriculum/02_Get_next_line
+	url = https://github.com/t-ecker/42-Get_next_line.git
+[submodule "Core Curriculum/03_Ft_printf"]
+	path = Core Curriculum/03_Ft_printf
+	url = https://github.com/t-ecker/42-Ft_printf.git
+[submodule "Core Curriculum/04_Minitalk"]
+	path = Core Curriculum/04_Minitalk
+	url = https://github.com/t-ecker/42-Minitalk.git
+[submodule "Core Curriculum/05_Fdf"]
+	path = Core Curriculum/05_Fdf
+	url = https://github.com/t-ecker/42-Fdf.git
+[submodule "Core Curriculum/06_Push_swap"]
+	path = Core Curriculum/06_Push_swap
+	url = https://github.com/t-ecker/42-Push_swap.git
+[submodule "Core Curriculum/07_Philosophers"]
+	path = Core Curriculum/07_Philosophers
+	url = https://github.com/t-ecker/42-Philosophers.git
+[submodule "Core Curriculum/08_Minishell"]
+	path = Core Curriculum/08_Minishell
+	url = https://github.com/t-ecker/42-Minishell.git
+[submodule "Core Curriculum/09_Cub3d"]
+	path = Core Curriculum/09_Cub3d
+	url = https://github.com/t-ecker/42-Cub3d.git
+
+[submodule "Core Curriculum/10_C++_Modules"]
+	path = Core Curriculum/10_C++_Modules
+	url = https://github.com/t-ecker/42-Cpp_modules.git
+[submodule "Core Curriculum/11_Webserv"]
+	path = Core Curriculum/11_Webserv
+	url = https://github.com/t-ecker/42-Webserv.git
+[submodule "Core Curriculum/12_Inception"]
+	path = Core Curriculum/12_Inception
+	url = https://github.com/t-ecker/42-Inception.git
