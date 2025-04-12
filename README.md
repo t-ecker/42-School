@@ -63,3 +63,8 @@ To gain some real-world experience, I did the **6-month internship** at XXX righ
 
 -->
 
+>To properly clone this repository, make sure to include the `--recurse-submodules` flag, as it contains submodules:
+>```bash
+>git clone --recurse-submodules https://github.com/t-ecker/42-school.git
+>```
+> - If you only want to see or clone a specific project, you can navigate to that projects's folder here on Github and clone it individually
