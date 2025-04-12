@@ -22,6 +22,8 @@ The **Core Curriculum** provides foundational skills in programming, aiming to b
 The **Mastery** phase allows students to specialize in areas like **Web Development**, **AI**, **Security**, **Data Science** and more, honing their skills based on personal interests and career goals. 
 > The **Mastery** phase is symbolizes as the **outer parts** of the diagram.
 
+![image](https://github.com/t-ecker/42-School/blob/main/img/diagram.jpg)
+
 ---
 
 ## 42 Projects
